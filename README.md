@@ -14,7 +14,7 @@ We assume a set of N vectors, where N1 belong to class ω1 and N2 belong to clas
 
 Bayes Classifier has proved to have a good performance on an imbalanced dataset (with proportions of 63% benign and 37% malignant). I believe that data preprocessing through normalization and dimensionality reduction played an essential role in achieving these results. In the case of the 20% testing set, we achieved the highest score (97.4%) with a number of 7 principal components, while for all other configurations, we obtained a score of at least 93.7%.
 
-Resources : 
+## Resources : 
 
   [1] Wolberg,William, Mangasarian,Olvi, Street,Nick, and Street,W.. (1995). Breast Cancer Wisconsin
 (Diagnostic). UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B
